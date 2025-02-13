@@ -1,5 +1,7 @@
 # Data Science Ecosystem: A Comprehensive Guide
 
+![](https://github.com/Lucky-akash321/DataScience/blob/main/datascience.jpeg)
+
 The **Data Science Ecosystem** consists of various tools, frameworks, methodologies, and technologies that work together to analyze, process, and extract insights from data. This guide provides a structured overview of the key components of the Data Science workflow.
 
 ---
